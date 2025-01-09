@@ -25,5 +25,5 @@ Smach<br>
 
 ## Result:<br>
 
-![Output for transitions](results/transition.png)<br>
+![Output for transitions](results/transitions.png)<br>
 ![Smach viewer Tree](results/tree.png)
